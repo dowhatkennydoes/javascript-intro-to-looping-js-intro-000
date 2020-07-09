@@ -1,3 +1,3 @@
 Function forLoop(array){
-  for
+  forLoop
 }
