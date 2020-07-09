@@ -1,4 +1,4 @@
 Function forLoop(array){
   var = i;
-  for(i = 0;)
+  for(i = 0; i)
 }
